@@ -3,8 +3,8 @@
 # load_dotenv()
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='46a6b87f2b4a45df98b3df758f0cc652',
-                                                           client_secret='70d6b2094c544e5eb91b45e29522f388'))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='x',
+                                                           client_secret='x'))
 
 from flask import render_template, json, url_for
 
