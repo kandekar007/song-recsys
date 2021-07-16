@@ -10,7 +10,7 @@ def get_recommendations(search):
     
     #Init
     
-    sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='', client_secret=''))
+    sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='x', client_secret='x'))
 
     song_name=[{'name': search}]
 
@@ -26,8 +26,8 @@ def get_recommendations(search):
     
 def get_covers(recommendations):
     
-    sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='46a6b87f2b4a45df98b3df758f0cc652',
-                                                               client_secret='70d6b2094c544e5eb91b45e29522f388'))
+    sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id='x',
+                                                               client_secret='x'))
     result={}
     id_list=[]
     for i in range(0,len(recommendations)):
