@@ -1,0 +1,83 @@
+body {
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 50%;
+  height: 100px;
+  position: absolute;
+  left: 15%;
+  top: 40%;
+}
+
+#search {
+  height: 50px;
+  font-size: 25px;
+}
+
+#submit{
+  position: absolute;
+  left: 105%;
+  bottom: 30%;
+  height: 50px;
+  border-radius: 500px;
+  background-color: #161a17;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-align: center;
+  padding: 11px 32px 9px;
+  font-size: 12px;
+  border-color: #c9dd10;
+}
+
+.button {
+  height: 50px;
+  border-radius: 500px;
+  background-color: #000000;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-align: center;
+  padding: 11px 32px 9px;
+  font-size: 12px;
+  border-color: #000000;
+  margin-top: 5px;
+}
+.recommendation {
+  border-radius: 15px;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+  opacity: 0.9;
+  background-color: #146C13;
+}
+.recommendation:hover{
+  opacity: 1;
+}
+
+.info {
+  padding-top: 15px;
+  font-size: 15px;
+  color: white;
+}
+
+.slogan {
+  color: #051401;
+  font-style: oblique;
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  top: 15%;
+  left: 27%
+}
+
+.students{
+  color: #28553b;
+  font-size: medium;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
