@@ -1,5 +1,5 @@
 body {
-  background-image: url('images/background.jpg');
+  background-image: url('images/background3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -46,15 +46,15 @@ body {
   text-align: center;
   padding: 11px 32px 9px;
   font-size: 12px;
-  border-color: #000000;
+  border-color: #ffee00;
   margin-top: 5px;
 }
 .recommendation {
   border-radius: 15px;
   padding: 10px 10px 10px 10px;
   margin-bottom: 10px;
-  opacity: 0.9;
-  background-color: #146C13;
+  opacity: 0.85;
+  background-color: #1b6910;
 }
 .recommendation:hover{
   opacity: 1;
@@ -73,11 +73,11 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   position: absolute;
   top: 15%;
-  left: 27%
+  left: 32%
 }
 
 .students{
-  color: #28553b;
+  color: #194e19;
   font-size: medium;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
