@@ -6,4 +6,4 @@ The web-app is created using following technologies:
 - Flask
 - HTML/CSS
 
-![website screenshot!](https://github.com/kandekar007/song-recsys/blob/main/deployed-recsys.PNG)
+![website screenshot!](https://github.com/kandekar007/song-recsys/blob/main/new-deployed-recsys.PNG)
