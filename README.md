@@ -5,5 +5,7 @@ The web-app is created using following technologies:
 - Python
 - Flask
 - HTML/CSS
+- Spotify API
+- Heroku Deployment Server
 
 ![website screenshot!](https://github.com/kandekar007/song-recsys/blob/main/new-deployed-recsys.PNG)
