@@ -1,7 +1,7 @@
 # [Song Recommender System](https://song-recsys.herokuapp.com/)
 
 This repo consists of a fully functional song recommending web application that recommends you a song based on your input of a favourite song.
-The web-app is created using following technologies:
+The web-app is created using following technologies :
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/) 
 - [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
